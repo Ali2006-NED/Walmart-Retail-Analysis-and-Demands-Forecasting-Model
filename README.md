@@ -1,5 +1,6 @@
-📘 Project Title: Kaggle Notebook Analysis
-📌 Description
+📘 Project Title: Walmart Retail Analysis and Demands Forecasting Model
+
+📌 Description:
 This project is a comprehensive data science analysis performed using Kaggle Notebooks and presented in Jupyter Notebook format. It demonstrates the full data science workflow — from data exploration and cleaning to model building and evaluation.
 
 Key highlights of the notebook include:
