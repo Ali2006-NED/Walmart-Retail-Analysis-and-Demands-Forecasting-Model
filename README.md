@@ -32,7 +32,7 @@ To run this notebook locally:
 
 1. Clone this repo:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ali2006-NED/Walmart-Retail-Analysis-and-Demands-Forecasting-Model.git
 
 2. Open the .ipynb file using Jupyter Notebook or VSCode with Python extension.
 
